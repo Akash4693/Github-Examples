@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "js": "file:",
     "octokit": "^3.1.2"
   },
   "name": "js",
